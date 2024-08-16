@@ -739,7 +739,7 @@ align-items: center;
 
 .plan-div{
     height: 100px;
-    width: 370px;
+    width: 310px;
   
    display: flex;
    justify-content: space-between;
@@ -751,7 +751,7 @@ align-items: center;
     background-color:black;
     border-radius: 20px;
     display: flex;
-    border: 2px solid black;
+    border: 3px solid white;
    
 }
 .plan1-logo{
@@ -777,25 +777,25 @@ align-items: center;
 }
 .plan1-txt p{
     color:white;
-    padding-bottom: 5px;
-    font-size: 18px;
+ padding-bottom: 5px; 
+    font-size: 90%;
 
 }
-.plan1-txt h3{
+.plan1-txt h1{
     color:white;
-    font-size: 22px;
-    font-weight: 900;
+    font-size: 100%;
+    font-weight: 1200;
     padding-bottom: 10px;
 }
 .plan2-txt p{
     color: white;
     padding-bottom: 5px;
-    font-size: 18px;
+    font-size: 90%;
 
 }
-.plan2-txt h3{
+.plan2-txt h1{
     color: white;
-    font-size: 22px;
+    font-size: 100%;
     font-weight: 1200;
     padding-bottom: 10px;
 }
@@ -805,7 +805,7 @@ align-items: center;
     background-color: black;
     border-radius: 20px;
     display: flex;
-    border: 2px solid black;
+    border: 3px solid white;
 }
 .plan2-logo{
     height: 100%;
